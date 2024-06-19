@@ -1,0 +1,13 @@
+.statistics {
+  max-width: 300px;
+  margin: 60px auto;
+  line-height: 1.5;
+  border-radius: 3%;
+  background-color: white;
+}
+
+.title {
+  text-transform: uppercase;
+  text-align: center;
+
+}
